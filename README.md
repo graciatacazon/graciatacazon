@@ -26,11 +26,6 @@ I am expanding my skills in U.S. tax preparation and cloud-based accounting soft
 
 ### 📂 Portfolio Projects
 
-**U.S. Tax Preparation**
-- **Form 1040:** Individual Income Tax Return
-- **Form 1065:** Partnership Return
-- **Form 1120-S:** S Corporation Return
-
 **Bookkeeping & Accounting**
 
 - **QuickBooks Online Practice Project:** Demonstrating company setup, transaction categorization, bank reconciliation, and financial reporting
@@ -38,6 +33,11 @@ I am expanding my skills in U.S. tax preparation and cloud-based accounting soft
 - **Bank Reconciliation Case Study:** Matching bank activity with accounting records, identifying discrepancies, and documenting adjustments
 - **Monthly Financial Reporting:** Preparing sample profit and loss statements, balance sheets, and management reports
 - **Bookkeeping Workflow Documentation:** Documenting transaction processing, reconciliation, month-end review, and reporting procedures
+
+**U.S. Tax Preparation**
+- **Form 1040:** Individual Income Tax Return
+- **Form 1065:** Partnership Return
+- **Form 1120-S:** S Corporation Return
 
 *U.S. tax and software projects are practice-based demonstrations using fictional data. Projects will be added as they are completed.*
 
