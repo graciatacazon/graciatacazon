@@ -4,7 +4,7 @@
 
 I help Airbnb, Vrbo, and Booking.com hosts and STR property managers get clean books: payout reconciliation, property-level reports, and owner statements.
 
-I'm a Philippine CPA with 7+ years in tax administration at the Bureau of Internal Revenue, plus hands-on bookkeeping for a local business. I'm certified in QuickBooks (Level 1 & 2), Intuit Bookkeeping, and Xero, and I have 1 year of experience filing U.S. returns in ProConnect Tax.
+I'm a Philippine CPA with 7+ years in tax administration, plus hands-on bookkeeping for a local business. I'm certified in QuickBooks (Level 1 & 2), Intuit Bookkeeping, and Xero, and I have 1 year of experience filing U.S. returns in ProConnect Tax.
 
 📫 **Open to remote bookkeeping work** (US / UK / AU hours)
 
