@@ -13,7 +13,6 @@ I'm a Philippine CPA with 7+ years in tax administration at the Bureau of Intern
 | LinkedIn | https://www.linkedin.com/in/gracia-ann-tacazoncpa/ |
 | Upwork | https://www.upwork.com/freelancers/~01aa0df6494ed81173 |
 | Email | gracia.ann.tacazon@gmail.com |
-| Portfolio site | [Google Sites link] |
 
 ---
 
