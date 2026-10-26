@@ -1,52 +1,37 @@
 # Hi, I'm Gracia Ann Tacazon 👋
 
-### Bookkeeper | U.S. Tax Preparation | Accounting Professional
+### Short-Term Rental Bookkeeper | CPA | QuickBooks Online & Xero
 
-I am an accounting professional with 7 years of experience in Philippine tax administration, financial documentation, and taxpayer account review, along with hands-on bookkeeping experience supporting a local business.
+I help Airbnb, Vrbo, and Booking.com hosts and STR property managers get clean books: payout reconciliation, property-level reports, and owner statements.
 
-I am expanding my skills in U.S. tax preparation and cloud-based accounting software while building practical projects that demonstrate my knowledge of bookkeeping workflows, financial reporting, and tax return preparation.
+I'm a Philippine CPA with 7+ years in tax administration at the Bureau of Internal Revenue, plus hands-on bookkeeping for a local business. I'm certified in QuickBooks (Level 1 & 2), Intuit Bookkeeping, and Xero, and I have 1 year of experience filing U.S. returns in ProConnect Tax.
 
-### 💼 Skills & Expertise
+📫 **Open to remote bookkeeping work** (US / UK / AU hours)
 
-- Bookkeeping and transaction categorization
-- Bank and account reconciliations
-- Journal entries and general ledger maintenance
-- Financial statement preparation
-- Payroll and inventory recordkeeping
-- Tax documentation and compliance
-- Financial record review and discrepancy identification
-- Tax return preparation practice and supporting workpapers
+| | |
+|---|---|
+| LinkedIn | https://www.linkedin.com/in/gracia-ann-tacazoncpa/ |
+| Upwork | https://www.upwork.com/freelancers/~01aa0df6494ed81173 |
+| Email | gracia.ann.tacazon@gmail.com |
+| Portfolio site | [Google Sites link] |
+
+---
+
+### 🏠 Featured Project: STR Bookkeeping
+
+**[StayWise Hospitality LLC](https://github.com/graciatacazon/staywise-hospitality-bookkeeping)**
+A full-year sample bookkeeping project for a fictional STR operator with 4 leased and 6 managed units. It covers payout reconciliation (Airbnb, Booking.com, Vrbo, Stripe), 20% management fee calculations, bank reconciliations, and monthly and year-end reports in QuickBooks Online and Xero.
+
+### 💼 What I Do
+- STR payout reconciliation (gross vs. fees vs. net deposits)
+- Property-level P&L and owner statements
+- Management-fee calculations
+- Bank reconciliations and monthly close
+- Bookkeeping cleanup and catch-up
+- Tax-ready records
 
 ### 🛠️ Tools
+QuickBooks Online · Xero · ProConnect Tax · Microsoft Excel · Google Sheets
 
-- **Microsoft Excel:** Hands-on bookkeeping system, transaction records, reconciliations, and financial reporting
-- **QuickBooks Online:** Self-directed learning and practice
-- **Xero:** Self-directed learning and practice
-- **ProConnect Tax:** Self-directed learning and practice
-
-### 📂 Portfolio Projects
-
-**Bookkeeping & Accounting**
-
-- **QuickBooks Online Practice Project:** Demonstrating company setup, transaction categorization, bank reconciliation, and financial reporting
-- **Xero Practice Project:** Demonstrating company setup, transaction categorization, bank reconciliation, and financial reporting
-- **Bank Reconciliation Case Study:** Matching bank activity with accounting records, identifying discrepancies, and documenting adjustments
-- **Monthly Financial Reporting:** Preparing sample profit and loss statements, balance sheets, and management reports
-- **Bookkeeping Workflow Documentation:** Documenting transaction processing, reconciliation, month-end review, and reporting procedures
-
-**U.S. Tax Preparation**
-- **Form 1040:** Individual Income Tax Return
-- **Form 1065:** Partnership Return
-- **Form 1120-S:** S Corporation Return
-
-*U.S. tax and software projects are practice-based demonstrations using fictional data. Projects will be added as they are completed.*
-
-### 📈 My Professional Journey
-
-My goal is to combine my accounting and tax background with U.S. tax knowledge and modern bookkeeping tools to support small businesses and accounting firms remotely.
-
-I value accurate financial records, organized documentation, careful review, and clear reporting. I am committed to continuous learning and developing practical skills that meet the needs of remote accounting teams.
-
-### 📫 Connect With Me
-
-GitHub: [@graciatacazon](https://github.com/graciatacazon)
+---
+*All portfolio projects use fictional data and don't represent actual client work.*
